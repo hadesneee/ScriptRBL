@@ -82,7 +82,7 @@ credit.TextColor3 = Color3.fromRGB(0,0,0)
 credit.TextSize = 16
 
 -- Bán kính vòng
-local radius = 260
+local radius = 10
 local radiusLabel = Instance.new("TextLabel", Frame)
 radiusLabel.Size = UDim2.new(0.2,0,0,30)
 radiusLabel.Position = UDim2.new(0.4,0,0.6,0)
